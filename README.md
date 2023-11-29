@@ -1,1 +1,1 @@
-# 234161013python
+# The World Happiness Report measures global well-being based on various factors such as health,family and  freedom. Using Python, this project analyzes CSV file data from 2018 to 2022, extracting insights and trends in global happiness. The code utilizes data manipulation libraries to process and visualize the information, offering a comprehensive understanding of the world's happiness dynamics over the specified timeframe.
